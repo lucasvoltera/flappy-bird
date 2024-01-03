@@ -226,7 +226,7 @@ WHITE = (255, 255, 255)
 pygame.init()
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 clock = pygame.time.Clock()
-font = pygame.font.Font('font/04B_19.ttf', 60)
+font = pygame.font.Font('font/04B_19.TTF', 60)
 
 # Pontuação
 score_tree = BinarySearchTree()
