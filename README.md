@@ -16,7 +16,7 @@ Clone ou faça o download do repositório.
 
 ```
 git clone https://github.com/lucasvoltera/flappy-bird.git
-cd FlappyBird
+cd flappy-bird
 ```
 
 Instale as dependências.
@@ -31,7 +31,6 @@ ou usando um arquivo requirements.txt:
 
 ```
 pip install -r requirements.txt
-
 ```
 
 Execute o arquivo FlappyBird.py:
